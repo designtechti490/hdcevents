@@ -1,6 +1,6 @@
 # Projeto de CRUD de Agenda e Eventos usando Laravel
 
-Este é um projeto de uma aplicação web para gerenciamento de agenda e eventos, desenvolvida utilizando o framework Laravel. A aplicação permite a criação, leitura, atualização e exclusão (CRUD) de eventos em uma agenda.
+Este é um projeto de uma aplicação web para gerenciamento de agenda de eventos, desenvolvida utilizando o framework Laravel. A aplicação permite a criação, leitura, atualização e exclusão (CRUD) de eventos em uma agenda.
 
 ## Funcionalidades
 
@@ -51,8 +51,9 @@ php artisan migrate
 php artisan serve
 
 A aplicação estará disponível em http://localhost:8000.
+```
 
-# Uso
+## Uso
 
 Após a instalação e execução do projeto, você poderá acessar a aplicação no navegador. A partir daí, você poderá realizar as seguintes ações:
 
@@ -71,3 +72,14 @@ Ao contribuir, por favor, siga as melhores práticas de desenvolvimento e respei
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
+
+## Tecnologias utilizadas
+
+![HTML](https://img.shields.io/badge/-HTML-121011?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-121011?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-121011?style=for-the-badge&logo=javascript)&nbsp;
+![JQuery](https://img.shields.io/badge/-Jquery-121011?style=for-the-badge&logo=jquery)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-121011?style=for-the-badge&logo=bootstrap)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-121011?style=for-the-badge&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-121011?style=for-the-badge&logo=laravel)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT-121011?style=for-the-badge&logo=git)&nbsp;
